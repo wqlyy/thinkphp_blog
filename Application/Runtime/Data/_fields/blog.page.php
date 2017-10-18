@@ -1,0 +1,1 @@
+a:8:{i:0;s:3:"pid";i:1;s:5:"title";i:2;s:7:"content";i:3;s:6:"author";i:4;s:6:"intime";i:5;s:6:"uptime";s:3:"_pk";s:3:"pid";s:5:"_type";a:6:{s:3:"pid";s:7:"int(10)";s:5:"title";s:11:"varchar(50)";s:7:"content";s:4:"text";s:6:"author";s:11:"varchar(50)";s:6:"intime";s:7:"int(10)";s:6:"uptime";s:7:"int(10)";}}
